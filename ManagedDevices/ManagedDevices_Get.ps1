@@ -1,4 +1,3 @@
-
 <#
 
 .COPYRIGHT
@@ -9,8 +8,7 @@ See LICENSE in the project root for license information.
 
 ####################################################
 
-function Get-AuthToken {
-
+function Get-AuthToken{
 <#
 .SYNOPSIS
 This function is used to authenticate with the Graph API REST interface
